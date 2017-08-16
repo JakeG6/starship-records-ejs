@@ -14,10 +14,14 @@ body {
     margin-right: 2px;
 }
 
-.bor1 {
+.bar1 {
     height: 7px;
     width: 50vw;
     background-color: white;
+}
+
+.bor1{
+  border: 3px solid white;
 }
 
 .p1{
